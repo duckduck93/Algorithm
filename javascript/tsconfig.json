@@ -1,0 +1,17 @@
+{
+  "CompilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": [
+      "es2015"
+    ]
+  },
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.collection"
+    ]
+  }
+}
